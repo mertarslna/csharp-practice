@@ -1,0 +1,1 @@
+Örnekler "Program.cs" içerisinde
