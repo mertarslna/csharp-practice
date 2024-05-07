@@ -1,0 +1,7 @@
+C:\Users\Merta\source\repos\ornek2\ornek2\bin\Debug\ornek2.exe.config
+C:\Users\Merta\source\repos\ornek2\ornek2\bin\Debug\ornek2.exe
+C:\Users\Merta\source\repos\ornek2\ornek2\bin\Debug\ornek2.pdb
+C:\Users\Merta\source\repos\ornek2\ornek2\obj\Debug\ornek2.csproj.AssemblyReference.cache
+C:\Users\Merta\source\repos\ornek2\ornek2\obj\Debug\ornek2.csproj.CoreCompileInputs.cache
+C:\Users\Merta\source\repos\ornek2\ornek2\obj\Debug\ornek2.exe
+C:\Users\Merta\source\repos\ornek2\ornek2\obj\Debug\ornek2.pdb
