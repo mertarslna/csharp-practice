@@ -1,0 +1,7 @@
+C:\Users\Merta\source\repos\ornek3\ornek3\bin\Debug\ornek3.exe.config
+C:\Users\Merta\source\repos\ornek3\ornek3\bin\Debug\ornek3.exe
+C:\Users\Merta\source\repos\ornek3\ornek3\bin\Debug\ornek3.pdb
+C:\Users\Merta\source\repos\ornek3\ornek3\obj\Debug\ornek3.csproj.AssemblyReference.cache
+C:\Users\Merta\source\repos\ornek3\ornek3\obj\Debug\ornek3.csproj.CoreCompileInputs.cache
+C:\Users\Merta\source\repos\ornek3\ornek3\obj\Debug\ornek3.exe
+C:\Users\Merta\source\repos\ornek3\ornek3\obj\Debug\ornek3.pdb
