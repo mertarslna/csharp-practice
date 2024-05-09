@@ -10,7 +10,7 @@ namespace ornek4
     {
         static void Main(string[] args)
         {
-            // 2. Ders notu 50-100 arasında ise geçti, değilse kaldı bilgisini yazdırınız.
+            // Ders notu 50-100 arasında ise geçti, değilse kaldı bilgisini yazdırınız.
             // (if kullanmadan)2
 
             int dersNotu;
