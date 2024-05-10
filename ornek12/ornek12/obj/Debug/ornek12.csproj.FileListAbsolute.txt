@@ -1,0 +1,14 @@
+C:\Users\Merta\source\repos\ornek12\ornek12\bin\Debug\ornek12.exe.config
+C:\Users\Merta\source\repos\ornek12\ornek12\bin\Debug\ornek12.exe
+C:\Users\Merta\source\repos\ornek12\ornek12\bin\Debug\ornek12.pdb
+C:\Users\Merta\source\repos\ornek12\ornek12\obj\Debug\ornek12.csproj.AssemblyReference.cache
+C:\Users\Merta\source\repos\ornek12\ornek12\obj\Debug\ornek12.csproj.CoreCompileInputs.cache
+C:\Users\Merta\source\repos\ornek12\ornek12\obj\Debug\ornek12.exe
+C:\Users\Merta\source\repos\ornek12\ornek12\obj\Debug\ornek12.pdb
+C:\Users\Merta\OneDrive\Belgeler\GitHub\C-Sharp-Orneklerim\ornek12\ornek12\bin\Debug\ornek12.exe.config
+C:\Users\Merta\OneDrive\Belgeler\GitHub\C-Sharp-Orneklerim\ornek12\ornek12\bin\Debug\ornek12.exe
+C:\Users\Merta\OneDrive\Belgeler\GitHub\C-Sharp-Orneklerim\ornek12\ornek12\bin\Debug\ornek12.pdb
+C:\Users\Merta\OneDrive\Belgeler\GitHub\C-Sharp-Orneklerim\ornek12\ornek12\obj\Debug\ornek12.csproj.AssemblyReference.cache
+C:\Users\Merta\OneDrive\Belgeler\GitHub\C-Sharp-Orneklerim\ornek12\ornek12\obj\Debug\ornek12.csproj.CoreCompileInputs.cache
+C:\Users\Merta\OneDrive\Belgeler\GitHub\C-Sharp-Orneklerim\ornek12\ornek12\obj\Debug\ornek12.exe
+C:\Users\Merta\OneDrive\Belgeler\GitHub\C-Sharp-Orneklerim\ornek12\ornek12\obj\Debug\ornek12.pdb
