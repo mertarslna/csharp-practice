@@ -1,0 +1,10 @@
+C:\Users\Merta\source\repos\DenemeSql\DenemeSqlForm\obj\Debug\DenemeSqlForm.csproj.AssemblyReference.cache
+C:\Users\Merta\source\repos\DenemeSql\DenemeSqlForm\obj\Debug\DenemeSqlForm.Form1.resources
+C:\Users\Merta\source\repos\DenemeSql\DenemeSqlForm\obj\Debug\DenemeSqlForm.Properties.Resources.resources
+C:\Users\Merta\source\repos\DenemeSql\DenemeSqlForm\obj\Debug\DenemeSqlForm.csproj.GenerateResource.cache
+C:\Users\Merta\source\repos\DenemeSql\DenemeSqlForm\obj\Debug\DenemeSqlForm.csproj.CoreCompileInputs.cache
+C:\Users\Merta\source\repos\DenemeSql\DenemeSqlForm\bin\Debug\DenemeSqlForm.exe.config
+C:\Users\Merta\source\repos\DenemeSql\DenemeSqlForm\bin\Debug\DenemeSqlForm.exe
+C:\Users\Merta\source\repos\DenemeSql\DenemeSqlForm\bin\Debug\DenemeSqlForm.pdb
+C:\Users\Merta\source\repos\DenemeSql\DenemeSqlForm\obj\Debug\DenemeSqlForm.exe
+C:\Users\Merta\source\repos\DenemeSql\DenemeSqlForm\obj\Debug\DenemeSqlForm.pdb
