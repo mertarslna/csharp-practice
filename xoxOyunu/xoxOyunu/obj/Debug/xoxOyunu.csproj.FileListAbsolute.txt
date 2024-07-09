@@ -1,0 +1,7 @@
+C:\Users\Merta\source\repos\xoxOyunu\xoxOyunu\bin\Debug\xoxOyunu.exe.config
+C:\Users\Merta\source\repos\xoxOyunu\xoxOyunu\bin\Debug\xoxOyunu.exe
+C:\Users\Merta\source\repos\xoxOyunu\xoxOyunu\bin\Debug\xoxOyunu.pdb
+C:\Users\Merta\source\repos\xoxOyunu\xoxOyunu\obj\Debug\xoxOyunu.csproj.AssemblyReference.cache
+C:\Users\Merta\source\repos\xoxOyunu\xoxOyunu\obj\Debug\xoxOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Merta\source\repos\xoxOyunu\xoxOyunu\obj\Debug\xoxOyunu.exe
+C:\Users\Merta\source\repos\xoxOyunu\xoxOyunu\obj\Debug\xoxOyunu.pdb
