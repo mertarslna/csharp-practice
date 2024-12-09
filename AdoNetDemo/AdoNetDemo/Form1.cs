@@ -27,5 +27,10 @@ namespace AdoNetDemo
         {
 
         }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }
