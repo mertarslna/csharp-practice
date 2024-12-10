@@ -45,7 +45,7 @@ namespace AdoNetDemo
         {
             ConnectionControl();
             SqlCommand command = new SqlCommand("" +
-                "INSERT INTO Products values(@name,@unitPrice,@stockAmount)", _connection);
+                "INSERT INTO Products VALUES(@name,@unitPrice,@stockAmount)", _connection);
             command.Parameters.AddWithValue("@name",product.Name);
             command.Parameters.AddWithValue("@unitPrice", product.UnitPrice);
             command.Parameters.AddWithValue("@stockAmount", product.StockAmount);
@@ -57,12 +57,22 @@ namespace AdoNetDemo
         {
             ConnectionControl();
             SqlCommand command = new SqlCommand("" +
-                "UPDATE Products SET Name=@Name,UnitPrice=@unitPrice,StockAmount=@stockAmount where id = @id", _connection);
+                "UPDATE Products SET Name=@Name,UnitPrice=@unitPrice,StockAmount=@stockAmount WHERE id = @id", _connection);
             command.Parameters.AddWithValue("@name", product.Name);
             command.Parameters.AddWithValue("@unitPrice", product.UnitPrice);
             command.Parameters.AddWithValue("@stockAmount", product.StockAmount);
             command.Parameters.AddWithValue("@id",product.Id);
             command.ExecuteNonQuery(); 
+
+            _connection.Close();
+        }
+        public void Delete(int id)
+        {
+            ConnectionControl();
+            SqlCommand command = new SqlCommand("" +
+                "DELETE FROM Products WHERE id = @id", _connection);
+            command.Parameters.AddWithValue("@id",id);
+            command.ExecuteNonQuery();
 
             _connection.Close();
         }

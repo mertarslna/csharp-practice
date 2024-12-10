@@ -45,6 +45,7 @@
             this.tbxNameUpdate = new System.Windows.Forms.TextBox();
             this.lblUnitPriceUpdate = new System.Windows.Forms.Label();
             this.dgwProducts = new System.Windows.Forms.DataGridView();
+            this.btnRemove = new System.Windows.Forms.Button();
             this.gbxAdd.SuspendLayout();
             this.gbxUpdate.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgwProducts)).BeginInit();
@@ -212,11 +213,22 @@
             this.dgwProducts.TabIndex = 0;
             this.dgwProducts.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgwProducts_CellClick);
             // 
+            // btnRemove
+            // 
+            this.btnRemove.Location = new System.Drawing.Point(363, 281);
+            this.btnRemove.Name = "btnRemove";
+            this.btnRemove.Size = new System.Drawing.Size(75, 175);
+            this.btnRemove.TabIndex = 9;
+            this.btnRemove.Text = "Remove";
+            this.btnRemove.UseVisualStyleBackColor = true;
+            this.btnRemove.Click += new System.EventHandler(this.btnRemove_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 479);
+            this.Controls.Add(this.btnRemove);
             this.Controls.Add(this.gbxUpdate);
             this.Controls.Add(this.gbxAdd);
             this.Controls.Add(this.dgwProducts);
@@ -250,6 +262,7 @@
         private System.Windows.Forms.TextBox tbxNameUpdate;
         private System.Windows.Forms.Label lblUnitPriceUpdate;
         private System.Windows.Forms.DataGridView dgwProducts;
+        private System.Windows.Forms.Button btnRemove;
     }
 }
 
