@@ -10,14 +10,14 @@ namespace AdoNetDemo
 {
     public class ProductDal //DAL : DATA ACCESS OBJECT
     {
+        SqlConnection _connection = new SqlConnection(@"server=(localdb)\MSSQLLocalDB;initial catalog=ETrade;integrated security=true");
         public List<Product> GetAll()
         {
-            SqlConnection connection = new SqlConnection(@"server=(localdb)\MSSQLLocalDB;initial catalog=ETrade;integrated security=true");
-            if (connection.State == ConnectionState.Closed)
+            if (_connection.State == ConnectionState.Closed)
             {
-                connection.Open(); // Bağlantı açma işlemi kontrolle yapılır
+                _connection.Open(); // Bağlantı açma işlemi kontrolle yapılır
             }
-            SqlCommand command = new SqlCommand("Select * from Products",connection);
+            SqlCommand command = new SqlCommand("Select * from Products", _connection);
 
             SqlDataReader reader = command.ExecuteReader(); // Select komutu için bu metod kullanılır
 
@@ -38,8 +38,27 @@ namespace AdoNetDemo
             // dt.Load(reader);
 
             reader.Close();
-            connection.Close();
+            _connection.Close();
             return products;
+        }
+        public void Add(Product product)
+        {
+            ConnectionControl();
+            SqlCommand command = new SqlCommand("" +
+                "INSERT INTO Products values(@name,@unitPrice,@stockAmount)", _connection);
+            command.Parameters.AddWithValue("@name",product.Name);
+            command.Parameters.AddWithValue("@unitPrice", product.UnitPrice);
+            command.Parameters.AddWithValue("@stockAmount", product.StockAmount);
+            command.ExecuteNonQuery(); // int kayıt sayısını döndürür kullanılabilir
+            _connection.Close();
+        }
+
+        private void ConnectionControl()
+        {
+            if (_connection.State == ConnectionState.Closed)
+            {
+                _connection.Open();
+            }
         }
     }
 }
