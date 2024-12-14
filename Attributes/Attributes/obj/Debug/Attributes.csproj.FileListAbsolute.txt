@@ -1,0 +1,7 @@
+C:\Users\Merta\source\repos\Attributes\Attributes\bin\Debug\Attributes.exe.config
+C:\Users\Merta\source\repos\Attributes\Attributes\bin\Debug\Attributes.exe
+C:\Users\Merta\source\repos\Attributes\Attributes\bin\Debug\Attributes.pdb
+C:\Users\Merta\source\repos\Attributes\Attributes\obj\Debug\Attributes.csproj.AssemblyReference.cache
+C:\Users\Merta\source\repos\Attributes\Attributes\obj\Debug\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\Merta\source\repos\Attributes\Attributes\obj\Debug\Attributes.exe
+C:\Users\Merta\source\repos\Attributes\Attributes\obj\Debug\Attributes.pdb
