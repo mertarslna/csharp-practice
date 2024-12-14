@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Merta\\source\\repos\\EntityFrameworkDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8043363-36FC-4D28-AB69-6A926A523DA9}|EntityFrameworkDemo\\EntityFrameworkDemo.csproj|c:\\users\\merta\\source\\repos\\entityframeworkdemo\\entityframeworkdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8043363-36FC-4D28-AB69-6A926A523DA9}|EntityFrameworkDemo\\EntityFrameworkDemo.csproj|solutionrelative:entityframeworkdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F8043363-36FC-4D28-AB69-6A926A523DA9}|EntityFrameworkDemo\\EntityFrameworkDemo.csproj|C:\\Users\\Merta\\source\\repos\\EntityFrameworkDemo\\entityframeworkdemo\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8043363-36FC-4D28-AB69-6A926A523DA9}|EntityFrameworkDemo\\EntityFrameworkDemo.csproj|solutionrelative:entityframeworkdemo\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8043363-36FC-4D28-AB69-6A926A523DA9}|EntityFrameworkDemo\\EntityFrameworkDemo.csproj|C:\\Users\\Merta\\source\\repos\\EntityFrameworkDemo\\entityframeworkdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F8043363-36FC-4D28-AB69-6A926A523DA9}|EntityFrameworkDemo\\EntityFrameworkDemo.csproj|solutionrelative:entityframeworkdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8043363-36FC-4D28-AB69-6A926A523DA9}|EntityFrameworkDemo\\EntityFrameworkDemo.csproj|C:\\Users\\Merta\\source\\repos\\EntityFrameworkDemo\\entityframeworkdemo\\etradecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8043363-36FC-4D28-AB69-6A926A523DA9}|EntityFrameworkDemo\\EntityFrameworkDemo.csproj|solutionrelative:entityframeworkdemo\\etradecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8043363-36FC-4D28-AB69-6A926A523DA9}|EntityFrameworkDemo\\EntityFrameworkDemo.csproj|C:\\Users\\Merta\\source\\repos\\EntityFrameworkDemo\\entityframeworkdemo\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8043363-36FC-4D28-AB69-6A926A523DA9}|EntityFrameworkDemo\\EntityFrameworkDemo.csproj|solutionrelative:entityframeworkdemo\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,70 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProductDal.cs",
               "DocumentMoniker": "C:\\Users\\Merta\\source\\repos\\EntityFrameworkDemo\\EntityFrameworkDemo\\ProductDal.cs",
               "RelativeDocumentMoniker": "EntityFrameworkDemo\\ProductDal.cs",
               "ToolTip": "C:\\Users\\Merta\\source\\repos\\EntityFrameworkDemo\\EntityFrameworkDemo\\ProductDal.cs",
               "RelativeToolTip": "EntityFrameworkDemo\\ProductDal.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T11:10:48.471Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Merta\\source\\repos\\EntityFrameworkDemo\\EntityFrameworkDemo\\Form1.cs",
-              "RelativeDocumentMoniker": "EntityFrameworkDemo\\Form1.cs",
-              "ToolTip": "C:\\Users\\Merta\\source\\repos\\EntityFrameworkDemo\\EntityFrameworkDemo\\Form1.cs",
-              "RelativeToolTip": "EntityFrameworkDemo\\Form1.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBQAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:03:23.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ETradeContext.cs",
-              "DocumentMoniker": "C:\\Users\\Merta\\source\\repos\\EntityFrameworkDemo\\EntityFrameworkDemo\\ETradeContext.cs",
-              "RelativeDocumentMoniker": "EntityFrameworkDemo\\ETradeContext.cs",
-              "ToolTip": "C:\\Users\\Merta\\source\\repos\\EntityFrameworkDemo\\EntityFrameworkDemo\\ETradeContext.cs",
-              "RelativeToolTip": "EntityFrameworkDemo\\ETradeContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:01:32.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Merta\\source\\repos\\EntityFrameworkDemo\\EntityFrameworkDemo\\Product.cs",
-              "RelativeDocumentMoniker": "EntityFrameworkDemo\\Product.cs",
-              "ToolTip": "C:\\Users\\Merta\\source\\repos\\EntityFrameworkDemo\\EntityFrameworkDemo\\Product.cs",
-              "RelativeToolTip": "EntityFrameworkDemo\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T13:57:01.833Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Merta\\source\\repos\\EntityFrameworkDemo\\EntityFrameworkDemo\\Form1.cs",
-              "RelativeDocumentMoniker": "EntityFrameworkDemo\\Form1.cs",
-              "ToolTip": "C:\\Users\\Merta\\source\\repos\\EntityFrameworkDemo\\EntityFrameworkDemo\\Form1.cs [Tasar\u0131m]",
-              "RelativeToolTip": "EntityFrameworkDemo\\Form1.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T13:39:20.237Z",
-              "EditorCaption": " [Tasar\u0131m]"
             }
           ]
         }

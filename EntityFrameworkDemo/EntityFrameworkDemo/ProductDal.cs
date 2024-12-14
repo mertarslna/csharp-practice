@@ -20,7 +20,30 @@ namespace EntityFrameworkDemo
         {
             using (ETradeContext context = new ETradeContext())
             {
-                return context.Products.Where(p=>p.Name.Contains(key)).ToList();
+                return context.Products.Where(p => p.Name.Contains(key)).ToList();
+            }
+        }
+        public List<Product> GetByUnitPrice(decimal price)
+        {
+            using (ETradeContext context = new ETradeContext())
+            {
+                return context.Products.Where(p => p.UnitPrice >= price).ToList(); // veri tabanına direkt sorgu atmaktadır
+            }
+        }
+        public List<Product> GetByUnitPrice(decimal min,decimal max) 
+        {
+            using (ETradeContext context = new ETradeContext())
+            {
+                return context.Products.Where(p => p.UnitPrice >= min && p.UnitPrice <= max).ToList(); 
+            }
+        }
+        public Product GetById(int id)
+        {
+            using (ETradeContext context = new ETradeContext())
+            {
+                return context.Products.FirstOrDefault(p => p.Id == id); 
+                // FirstOrDefault : idye uygun olan ilk kaydı 
+                // SingleOrDefault : uyan 1den fazla kayıt var ise hata verir
             }
         }
         public void Add(Product product)
