@@ -27,6 +27,13 @@ namespace EntityFrameworkDemo
         {
             dgwProducts.DataSource = _productDal.GetAll();
         }
+        private void SearchProducts(string key)
+        {
+            // dgwProducts.DataSource =
+            // _productDal.GetAll().Where(p=>p.Name.Contains(key)).ToList(); // küçük büyük harf duyarlıdır
+            // veri tabanına sorgulu göndermek daha mantıklıdır 
+            dgwProducts.DataSource = _productDal.GetByName(key); // küçük büyük harf duyarsızdır
+        }
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
@@ -70,6 +77,9 @@ namespace EntityFrameworkDemo
             tbxStockAmountUpdate.Text = dgwProducts.CurrentRow.Cells[3].Value.ToString();
         }
 
-        
+        private void tbxSearch_TextChanged(object sender, EventArgs e)
+        {
+            SearchProducts(tbxSearch.Text);
+        }
     }
 }
