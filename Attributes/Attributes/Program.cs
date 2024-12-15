@@ -51,7 +51,12 @@ namespace Attributes
                 customer.Id, customer.FirstName, customer.LastName, customer.Age);
         }
     }
-
+    [AttributeUsage(AttributeTargets.Property | AttributeTargets.Field,AllowMultiple = true)]
+    // AttributeTargets.All : Herkes için,
+    // AttributeTargets.Class : Classlar için,
+    // AttributeTargets.Property : Nesneler için kullanılabilir;
+    // | (pipe) birden fazla attribute için,
+    // AllowMultiple : birden fazla kullanılabilmesi için 
     class RequiredPropertyAttribute : Attribute
     {
 
