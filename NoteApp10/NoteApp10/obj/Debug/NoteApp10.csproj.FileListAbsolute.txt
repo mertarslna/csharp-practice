@@ -1,0 +1,10 @@
+C:\Users\Merta\source\repos\NoteApp10\NoteApp10\bin\Debug\NoteApp10.exe.config
+C:\Users\Merta\source\repos\NoteApp10\NoteApp10\bin\Debug\NoteApp10.exe
+C:\Users\Merta\source\repos\NoteApp10\NoteApp10\bin\Debug\NoteApp10.pdb
+C:\Users\Merta\source\repos\NoteApp10\NoteApp10\obj\Debug\NoteApp10.csproj.AssemblyReference.cache
+C:\Users\Merta\source\repos\NoteApp10\NoteApp10\obj\Debug\NoteApp10.Form1.resources
+C:\Users\Merta\source\repos\NoteApp10\NoteApp10\obj\Debug\NoteApp10.Properties.Resources.resources
+C:\Users\Merta\source\repos\NoteApp10\NoteApp10\obj\Debug\NoteApp10.csproj.GenerateResource.cache
+C:\Users\Merta\source\repos\NoteApp10\NoteApp10\obj\Debug\NoteApp10.csproj.CoreCompileInputs.cache
+C:\Users\Merta\source\repos\NoteApp10\NoteApp10\obj\Debug\NoteApp10.exe
+C:\Users\Merta\source\repos\NoteApp10\NoteApp10\obj\Debug\NoteApp10.pdb
