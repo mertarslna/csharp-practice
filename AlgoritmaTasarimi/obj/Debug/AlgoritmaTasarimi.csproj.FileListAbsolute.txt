@@ -1,0 +1,7 @@
+C:\Users\Merta\source\repos\AlgoritmaTasarimi\AlgoritmaTasarimi\bin\Debug\AlgoritmaTasarimi.exe.config
+C:\Users\Merta\source\repos\AlgoritmaTasarimi\AlgoritmaTasarimi\bin\Debug\AlgoritmaTasarimi.exe
+C:\Users\Merta\source\repos\AlgoritmaTasarimi\AlgoritmaTasarimi\bin\Debug\AlgoritmaTasarimi.pdb
+C:\Users\Merta\source\repos\AlgoritmaTasarimi\AlgoritmaTasarimi\obj\Debug\AlgoritmaTasarimi.csproj.AssemblyReference.cache
+C:\Users\Merta\source\repos\AlgoritmaTasarimi\AlgoritmaTasarimi\obj\Debug\AlgoritmaTasarimi.csproj.CoreCompileInputs.cache
+C:\Users\Merta\source\repos\AlgoritmaTasarimi\AlgoritmaTasarimi\obj\Debug\AlgoritmaTasarimi.exe
+C:\Users\Merta\source\repos\AlgoritmaTasarimi\AlgoritmaTasarimi\obj\Debug\AlgoritmaTasarimi.pdb
