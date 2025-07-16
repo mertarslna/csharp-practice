@@ -52,6 +52,7 @@
     <Compile Include="Array.cs" />
     <Compile Include="ForTrial.cs" />
     <Compile Include="Matematik.cs" />
+    <Compile Include="Pattern.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
