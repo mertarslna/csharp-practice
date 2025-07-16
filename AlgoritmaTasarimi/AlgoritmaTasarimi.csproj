@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AralikliCiftSayilar.cs" />
+    <Compile Include="ASCII.cs" />
     <Compile Include="BirdenNeKadarCiftSayilar.cs" />
     <Compile Include="CemberinCevresi.cs" />
     <Compile Include="DaireninAlani.cs" />
