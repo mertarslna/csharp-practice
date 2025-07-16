@@ -49,6 +49,7 @@
     <Compile Include="DaireninAlani.cs" />
     <Compile Include="DilimDaireninAlani.cs" />
     <Compile Include="DizidekiEnKucukVeEnBuyukEleman.cs" />
+    <Compile Include="ForTrial.cs" />
     <Compile Include="Matematik.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

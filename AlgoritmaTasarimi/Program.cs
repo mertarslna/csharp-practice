@@ -10,6 +10,7 @@ namespace AlgoritmaTasarimi
     {
         static void Main(string[] args)
         {
+            Matematik.CarpimTablosu();
         }
     }
 }

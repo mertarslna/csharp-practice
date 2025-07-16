@@ -10,7 +10,7 @@ namespace AlgoritmaTasarimi
     {
         public static double Find(double yariCap,double aci)
         {
-            return yariCap * yariCap * Matematik.PI * aci/360;
+            return yariCap * yariCap * Matematik.pi * aci/360;
         }
     }
 }
