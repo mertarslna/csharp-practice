@@ -48,7 +48,7 @@
     <Compile Include="CemberinCevresi.cs" />
     <Compile Include="DaireninAlani.cs" />
     <Compile Include="DilimDaireninAlani.cs" />
-    <Compile Include="DizidekiEnKucukVeEnBuyukEleman.cs" />
+    <Compile Include="Array.cs" />
     <Compile Include="ForTrial.cs" />
     <Compile Include="Matematik.cs" />
     <Compile Include="Program.cs" />

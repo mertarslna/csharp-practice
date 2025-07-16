@@ -5,3 +5,4 @@ C:\Users\Merta\source\repos\AlgoritmaTasarimi\AlgoritmaTasarimi\obj\Debug\Algori
 C:\Users\Merta\source\repos\AlgoritmaTasarimi\AlgoritmaTasarimi\obj\Debug\AlgoritmaTasarimi.csproj.CoreCompileInputs.cache
 C:\Users\Merta\source\repos\AlgoritmaTasarimi\AlgoritmaTasarimi\obj\Debug\AlgoritmaTasarimi.exe
 C:\Users\Merta\source\repos\AlgoritmaTasarimi\AlgoritmaTasarimi\obj\Debug\AlgoritmaTasarimi.pdb
+C:\Users\Merta\source\repos\AlgoritmaTasarimi\AlgoritmaTasarimi\obj\Debug\AlgoritmaTasarimi.exe.config
