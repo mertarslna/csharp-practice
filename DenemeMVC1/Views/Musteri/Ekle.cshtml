@@ -1,0 +1,38 @@
+@model Musteri
+
+@{
+    ViewData["Title"] = "Müşteri Sayfası";
+}
+<h1>@ViewData["Title"]</h1>
+
+@if (TempData["EkleError"] != null)
+{
+    <div style="color:crimson">@TempData["EkleError"]</div>
+}
+@if (TempData["EkleSuccess"] != null)
+{
+    <div style="color:green">@TempData["EkleSuccess"]</div>
+}
+@if (TempData["SilInfo"] != null)
+{
+    <div style="color:green">@TempData["SilInfo"]</div>
+}
+
+<div class="text-center">
+    <h1 class="display-4">Musteri Yönetimi</h1>
+    
+    <form asp-action="Ekle" method="post">
+        <input asp-for="Ad" placeholder="Ad" /><br />
+        <input asp-for="Soyad" placeholder="Soyad" /><br />
+        <input asp-for="Yas" placeholder="Yaş" /><br />
+        <input asp-for="Sehir" placeholder="Şehir" /><br />
+        <input asp-for="Meslek" placeholder="Meslek" /><br />
+
+        <button type="submit">Kaydet</button>
+    </form>
+    <form asp-action="Sil" method="post">
+        <title>Yaşı 0'dan küçük olan müşterileri sil</title>
+        <input type="hidden" name="yasi0danKucuk" value="true" />
+        <button type="submit">Sil</button>
+    </form>
+</div>
